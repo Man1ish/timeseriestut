@@ -1,0 +1,4 @@
+numpy==1.16.5
+scipy==1.7.2
+pandas==0.25.1
+stumpy==1.9.2
